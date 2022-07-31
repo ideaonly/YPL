@@ -2,23 +2,23 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e8bacc57dd8d48869d5c223f25c0d959',
+  rootNotionPageId: 'YPL-725a2b15700a45d180b6ec24fe5aa1a7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BENSON & CLOUD',
-  domain: 'https://enchanted-gosling-5ac.notion.site/BENSON-CLOUD-e8bacc57dd8d48869d5c223f25c0d959',
-  author: 'BENSON',
+  name: 'YPL 收腹带',
+  domain: 'https://www.notion.so/ideaonly/YPL-725a2b15700a45d180b6ec24fe5aa1a7',
+  author: 'YPL',
 
   // open graph metadata (optional)
-  description: 'BENSON & CLOUD LIFE',
+  description: 'YPL-最新小腰精收腹带，收腹束腰，减脂正型，曲线自来。最新款',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'benson-singapore',
+  github: 'ideaonly',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
